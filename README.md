@@ -2,7 +2,7 @@ location tracking tool based on cellphone number
 
 how it works:
 
-git clone git@github.com:drian-o/TrackingTool.git
+git clone https://github.com/drian-o/TrackingTool.git
 
 cd trackingtool
 
