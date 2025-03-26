@@ -1,2 +1,11 @@
-# tracking-cat
-Simple Aja ini tools Buat lacak lokasi :V akurat ga akurat na coba aja dulu
+location tracking tool based on cellphone number
+
+how it works:
+
+git clone git@github.com:drian-o/TrackingTool.git
+
+cd trackingtool
+
+python3 main.py
+
+tools can work using termux or linux
